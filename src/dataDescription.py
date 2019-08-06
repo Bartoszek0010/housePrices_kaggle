@@ -2,6 +2,7 @@ from reader import Reader as r
 import numpy as np
 import math
 
+
 def create_unique_dict(data):
     key = 1
     dict = {}
